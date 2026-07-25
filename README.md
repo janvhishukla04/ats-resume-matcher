@@ -124,4 +124,4 @@ Every fresher applies to 100 jobs and hears back from 3. Most rejections happen 
 
 ## Author
 
-**[Your Name]** — [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**[Janvhi Shukla]** — [GitHub](https://github.com/janvhishukla04) · [LinkedIn](https://linkedin.com/in/janvhi-shukla-9803962a6)
