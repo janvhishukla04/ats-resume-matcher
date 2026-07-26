@@ -21,4 +21,4 @@ Upload your resume + paste a job description → get an ATS match score and miss
 
 ## Author
 
-**Janvhi Shukla** — [GitHub](https://github.com/janvhishukla04) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+**Janvhi Shukla** — [GitHub](https://github.com/janvhishukla04) · [LinkedIn](https://linkedin.com/in/janvhi-shukla-9803962a6)
